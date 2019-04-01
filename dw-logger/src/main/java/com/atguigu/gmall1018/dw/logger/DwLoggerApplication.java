@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DwLoggerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DwLoggerApplication.class, args);
+
+	    SpringApplication.run(DwLoggerApplication.class, args);
 	}
 }
