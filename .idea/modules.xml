@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dw-chart/dw-chart.iml" filepath="$PROJECT_DIR$/dw-chart/dw-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dw-common/dw-common.iml" filepath="$PROJECT_DIR$/dw-common/dw-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dw-logger/dw-logger.iml" filepath="$PROJECT_DIR$/dw-logger/dw-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dw-mock/dw-mock.iml" filepath="$PROJECT_DIR$/dw-mock/dw-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dw-publisher/dw-publisher.iml" filepath="$PROJECT_DIR$/dw-publisher/dw-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dw-realtime/dw-realtime.iml" filepath="$PROJECT_DIR$/dw-realtime/dw-realtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gmall1018.iml" filepath="$PROJECT_DIR$/.idea/gmall1018.iml" />
+    </modules>
+  </component>
+</project>

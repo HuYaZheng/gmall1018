@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dw-chart" />
+        <module name="dw-common" />
+        <module name="dw-logger" />
+        <module name="dw-mock" />
+        <module name="dw-publisher" />
+        <module name="dw-realtime" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dw-chart" target="1.8" />
+      <module name="dw-common" target="1.8" />
+      <module name="dw-logger" target="1.8" />
+      <module name="dw-mock" target="1.8" />
+      <module name="dw-publisher" target="1.8" />
+      <module name="dw-realtime" target="1.8" />
+      <module name="gmall1018" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
